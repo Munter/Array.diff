@@ -1,5 +1,6 @@
 var assert = require('assert');
 
+require('./lib/es5-shim.js');
 require('../Array.diff');
 
 describe('Array.diff', function () {
