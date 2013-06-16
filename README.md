@@ -7,4 +7,8 @@ This polyfill will install a `diff` function on `Array.prototype`.
 
 **WARNING**: Browsers that don't support `Object.defineProperty` will see `diff` as an interable property, giving you problems if you use `for (i in array)` style iteration, [which you shouldn't](http://stackoverflow.com/a/500531).
 
+
+Browser support
+---------------
+
 [![browser support](https://ci.testling.com/Munter/Array.diff.png)](https://ci.testling.com/Munter/Array.diff)
