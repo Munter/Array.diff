@@ -12,3 +12,7 @@ Browser support
 ---------------
 
 [![browser support](https://ci.testling.com/Munter/Array.diff.png)](https://ci.testling.com/Munter/Array.diff)
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/Munter/array.diff/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
